@@ -207,7 +207,7 @@ int main() {
     char input[128], name[NAME_LENGTH + 1];
     float amount;
 
-    loadData("boats.csv");
+    loadData("BoatData.csv");
 
     printf("Welcome to the Boat Management System\n");
     printf("-------------------------------------\n");

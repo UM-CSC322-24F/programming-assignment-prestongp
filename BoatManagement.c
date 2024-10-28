@@ -5,7 +5,6 @@
 
 #define MAX_BOATS 120
 #define NAME_LENGTH 127
-#define FILENAME_LEN 255
 
 typedef enum {
     slip, land, trailor, storage
